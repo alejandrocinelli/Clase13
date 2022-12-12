@@ -1,8 +1,5 @@
 // controladores de la API 
 import getTime from "../helpers/getTime.js";
-import fs from 'fs';
-
-//const productos = JSON.parse(fs.readFileSync('./productos.json', 'utf-8'));
 
 const productos = [ ];
 
